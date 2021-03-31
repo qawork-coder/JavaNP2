@@ -9,6 +9,7 @@ public class ClassE extends ClassD{
 	public static void main(String args[])
 	{
 		ClassE obj=new ClassE();
-		obj.method1();
+		obj.method1();//Whenever we use object , we can call the methods from all classes
+		
 	}
 }
